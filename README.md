@@ -1,4 +1,4 @@
 # resume
 My Resume Template
 
-![Demo Animation](cv-png.jpg?raw=true)
+![cv](cv.jpg?raw=true)
